@@ -1,0 +1,154 @@
+{
+  "page_1": [
+    {
+      "category": "title",
+      "bbox": [
+        198.67,
+        109.59,
+        396.33,
+        126.44
+      ],
+      "text": "Natural-Language Agent Harnesses"
+    },
+    {
+      "category": "authors",
+      "bbox": [
+        99.75,
+        147.3,
+        497.5,
+        161.34
+      ],
+      "text": "Linyue Pan 1 Lexiao Zou 2 Shuo Guo 1 Jingchen Ni 1 Hai-Tao Zheng 1 *"
+    },
+    {
+      "category": "affiliation",
+      "bbox": [
+        161.3,
+        160.28,
+        433.7,
+        173.28
+      ],
+      "text": "1 Shenzhen International Graduate School, Tsinghua University"
+    },
+    {
+      "category": "affiliation",
+      "bbox": [
+        128.87,
+        172.87,
+        466.13,
+        197.34
+      ],
+      "text": "2 Harbin Institute of Technology (Shenzhen) ply24@mails.tsinghua.edu.cn zheng.haitao@sz.tsinghua.edu.cn"
+    },
+    {
+      "category": "section_header",
+      "bbox": [
+        171.23,
+        239.05,
+        211.38,
+        253.09
+      ],
+      "text": "Abstract"
+    },
+    {
+      "category": "abstract",
+      "bbox": [
+        107.72,
+        259.68,
+        276.04,
+        453.99
+      ],
+      "text": "Agent   performance   increasingly   depends   on harness engineering , yet harness design is usu- ally   buried   in   controller   code   and   runtime- speci\ufb01c   conventions,   making   it   hard  "
+    },
+    {
+      "category": "section_header",
+      "bbox": [
+        92.79,
+        461.48,
+        167.54,
+        475.52
+      ],
+      "text": "1 Introduction"
+    },
+    {
+      "category": "paragraph",
+      "bbox": [
+        92.43,
+        481.4,
+        291.55,
+        725.66
+      ],
+      "text": "Modern agents increasingly succeed or fail because of the surrounding  harness :   the control stack that structures multi-step reasoning, tool use, memory, delegation, and stopping beyond any single "
+    },
+    {
+      "category": "footnote",
+      "bbox": [
+        104.21,
+        731.18,
+        179.75,
+        740.94
+      ],
+      "text": "* Corresponding author."
+    },
+    {
+      "category": "figure",
+      "bbox": [
+        305.18,
+        239.52,
+        502.21,
+        436.33
+      ],
+      "text": "[IMAGE]"
+    },
+    {
+      "category": "figure_caption",
+      "bbox": [
+        305.18,
+        444.57,
+        503.7,
+        476.99
+      ],
+      "text": "Figure 1:   Examples of harness design patterns used by modern agents (reason\u2013act, retrieval, re\ufb02ection, veri\ufb01- cation, memory, search, orchestration)."
+    },
+    {
+      "category": "paragraph",
+      "bbox": [
+        304.82,
+        496.94,
+        503.85,
+        606.66
+      ],
+      "text": "folding\u2014can bottleneck performance even when the base model is \ufb01xed ( Liu et al. ,  2024 ;  Chroma Research ,   2025 ;   Tang   et   al. ,   2025 ,   2026a , b ;   Sun et al. ,  2025 ;  Su et al. ,  2"
+    },
+    {
+      "category": "paragraph",
+      "bbox": [
+        304.85,
+        607.25,
+        503.85,
+        741.43
+      ],
+      "text": "This   shift   reframes   \u201cprompt   engineering\u201d   into the   broader   practice   of   context   engineering :   de- ciding   what   instructions,   evidence,   intermediate artifacts,   and   state "
+    },
+    {
+      "category": "page_number",
+      "bbox": [
+        295.04,
+        756.54,
+        299.96,
+        768.41
+      ],
+      "text": "1"
+    },
+    {
+      "category": "watermark",
+      "bbox": [
+        44.16,
+        263.04,
+        62.21,
+        578.96
+      ],
+      "text": "arXiv:2603.25723v1  [cs.CL]  26 Mar 2026"
+    }
+  ]
+}
